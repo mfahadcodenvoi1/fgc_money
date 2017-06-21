@@ -1,7 +1,90 @@
+
+@media all and (min-width: 500px) and (max-width: 799px){
+    .header-custom {
+        padding: 10px;
+    }
+    .right-btns{
+        margin-bottom: 35px;
+
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+}
+@media all and (min-width: 780px) and (max-width: 827px){
+    .header-custom {
+        padding: 10px;
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+}
+@media all and (min-width: 780px) and (max-width: 827px){
+    .header-custom {
+        padding: 10px;
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+}
+
+@media all and (min-width: 828px) and (max-width:1025px){
+    .header-custom {
+        padding: 25px 40px;
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+}
+@media all and (min-width: 1024px) and (max-width:1151px){
+    .header-custom {
+        padding: 25px 80px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
+@media all and (min-width: 1152px) and (max-width:1279px){
+    .header-custom {
+        padding: 25px 120px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
+@media all and (min-width: 1280px){
+    .header-custom {
+        padding: 25px 180px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
+
 .header-custom{
     background-color: #ebebed;
     width:100%;
-    padding: 25px 300px;
     text-align: center;
     position: absolute;
 }
@@ -20,7 +103,7 @@
 .header-white-btn{
     border: 1px solid rgb( 0, 0, 0 );
     border-radius: 8px;
-    padding-top: 12px;
+    padding-top: 10px !important;
     text-transform: uppercase;
     font-size: 12px;
     background-color: #ebebed;
@@ -30,7 +113,7 @@
     letter-spacing: 2px;
 }
 .header-black-btn{
-    padding-top: 12px;
+    padding-top: 10px !important;
     border: 1px solid rgb( 19, 19, 26 );
     border-radius: 8px;
     text-transform: uppercase;
