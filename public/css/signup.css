@@ -30,3 +30,33 @@
 .text-red{
     color: red;
 }
+
+.form-btn{
+    border-radius: 8px;
+    height: 40px;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+.bg-orange{
+    background-color: rgb( 225, 135, 5 );
+}
+.bg-blue{
+    background-color: rgb( 40, 147, 214 );
+}
+.form-btn:hover{
+    color: white;
+}
+
+.panel-section-padding{
+    padding: 20px 35px;
+}
+
+.captcha-p{
+    font-weight: bold;
+    text-transform: uppercase;;
+    letter-spacing: 1px;
+    padding: 50px 50px 0 50px;
+}
