@@ -9,3 +9,123 @@ hr {
     width: 100%;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+@media all and (min-width: 237px) and (max-width: 505px){
+    .header-custom {
+        padding: 10px;
+    }
+    .right-btns{
+        margin-bottom: 35px;
+
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+    .add-beneficiary{
+        margin: 0 !important;
+        padding: 10px !important;
+
+    }
+    .custom-container{
+        padding: 10px !important;
+    }
+}
+@media all and (min-width: 506px) and (max-width: 799px){
+    .header-custom {
+        padding: 10px 6px;
+    }
+    .right-btns{
+        margin-bottom: 35px;
+
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+    .add-beneficiary{
+        margin: 0 !important;
+        padding: 10px !important;
+
+    }
+    .custom-container{
+        padding: 10px !important;
+    }
+}
+@media all and (min-width: 780px) and (max-width: 827px){
+    .header-custom {
+        padding: 25px 10px;
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+    .add-beneficiary{
+        margin: 50px !important;
+        padding: 50px !important;
+
+    }
+    .custom-container{
+        padding: 20px !important;
+    }
+}
+
+
+@media all and (min-width: 828px) and (max-width:1025px){
+    .header-custom {
+        padding: 25px 5px;
+    }
+    .header-black-btn{
+        margin-right: 10px;
+    }
+    .header-text{
+        margin-right: 10px;
+    }
+    .add-beneficiary{
+        margin: 50px !important;
+        padding: 50px !important;
+
+    }
+    .custom-container{
+        padding: 20px !important;
+    }
+}
+@media all and (min-width: 1024px) and (max-width:1151px){
+    .header-custom {
+        padding: 25px 80px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
+@media all and (min-width: 1152px) and (max-width:1279px){
+    .header-custom {
+        padding: 25px 120px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
+@media all and (min-width: 1280px){
+    .header-custom {
+        padding: 25px 215px;
+    }
+    .header-black-btn{
+        margin-right: 20px;
+    }
+    .header-text{
+        margin-right: 20px;
+    }
+}
