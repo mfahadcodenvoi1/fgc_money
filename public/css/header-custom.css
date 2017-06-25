@@ -50,3 +50,8 @@
     color: rgb( 254, 254, 255 );
 }
 
+.nav-label{
+    padding: 10px;
+    background-color: rgb( 40, 147, 214 );
+}
+
