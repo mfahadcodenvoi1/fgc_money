@@ -4,6 +4,14 @@
     color: white !important;
     text-transform: uppercase;
 }
+.home-panel-heading-blue{
+    background-color: rgb( 40, 147, 214 ) !important;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 500;
+    color: white !important;
+    text-transform: uppercase;
+}
 .custom-container{
     padding: 0 70px;
 }
@@ -14,6 +22,38 @@
     letter-spacing: 2px;
     font-size: 13px;
 }
+.home-form-label{
+    text-transform: uppercase;
+    text-align: right;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgb( 40, 147, 214 )
+}
+
+.home-select{
+    background-color: rgb( 229, 227, 227 );
+    border-radius: 8px;
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.home-input-group input{
+    width:55% !important;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background-color: rgb( 229, 227, 227 );
+    border: none;
+}
+.home-input-group select{
+    width: 35% !important;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: rgb( 40, 147, 214 );
+    color: white;
+    border: none;
+}
+
+
 .img-label{
     text-transform: uppercase;
     font-weight: bold;
@@ -75,6 +115,9 @@
 .bg-blue{
     background-color: rgb( 40, 147, 214 );
 }
+.bg-red{
+    background-color: rgb( 239, 33, 33 );
+}
 .form-btn:hover{
     color: white;
 }
@@ -107,6 +150,31 @@
     margin: 100px 160px;
 }
 
+.home-title{
+    font-size: 89px;
+    color: rgb( 255, 255, 255 );
+    text-shadow: 1px 1.732px 0px rgb( 15, 12, 12 );
+    font-weight: bolder;
+}
 
+.home-subtitle{
+    font-size: 35px;
+    color: rgb( 255, 255, 255 );
+    text-shadow: 1px 1.732px 0px rgb( 15, 12, 12 );
+    font-weight: bolder;
+}
 
+.large-btn{
+    width: 236px;
+    height: 60px;
+    border-radius: 8px;
+    padding-top: 18px;
+    color: white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.large-btn:hover{
+    color: white;
+}
 
