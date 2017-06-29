@@ -52,6 +52,10 @@
 .margin-5-t{
     margin-top: 5px;
 }
+.margin-5-x{
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
 .margin-10-t{
     margin-top: 10px;
 }
