@@ -214,3 +214,19 @@ hr {
     text-transform: uppercase;
     line-height: 1.9;
 }
+
+.mid-section1{
+    padding: 60px;
+}
+.mid-section1 h1{
+    font-size: 34px;
+    color: rgb( 9, 9, 13 );
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+.mid-section1 p{
+    font-size: 19px;
+    color: rgb( 148, 148, 149 );
+    line-height: 1.632;
+}

@@ -178,4 +178,10 @@
     color: white;
 }
 
+.standard-select{
+    border-radius: 8px;
+    width: 200px;
+    margin-top:10px;
+}
+
 
