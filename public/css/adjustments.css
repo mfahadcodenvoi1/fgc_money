@@ -99,7 +99,9 @@
 .padding-60{
     padding: 60px;
 }
-
+.padding-15-t{
+    padding-top: 15px;
+}
 .margin-50-b{
     margin-bottom: 50px;
 }
